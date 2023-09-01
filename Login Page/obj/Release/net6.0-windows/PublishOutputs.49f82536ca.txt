@@ -1,0 +1,8 @@
+C:\Users\kaifs\OneDrive\Desktop\Login Page.exe
+C:\Users\kaifs\OneDrive\Desktop\Login Page.dll
+C:\Users\kaifs\OneDrive\Desktop\Login Page.deps.json
+C:\Users\kaifs\OneDrive\Desktop\Login Page.runtimeconfig.json
+C:\Users\kaifs\OneDrive\Desktop\Login Page.pdb
+C:\Users\kaifs\OneDrive\Desktop\Guna.UI2.dll
+C:\Users\kaifs\OneDrive\Desktop\System.Management.dll
+C:\Users\kaifs\OneDrive\Desktop\runtimes\win\lib\net6.0\System.Management.dll

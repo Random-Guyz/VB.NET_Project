@@ -1,0 +1,529 @@
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\Users\kaifs\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vinit sawant\OneDrive\Desktop\VB Project\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\college managment sys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\college managment sys\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\College Management System\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\College Management System\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\c2\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\c2\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\c2\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\c2\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\c2\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\c2\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\c2\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\c2\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\ColllegeMan\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\ColllegeMan\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\ColllegeManage\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\ColllegeManage\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.Management.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\ColllegeManageSys\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.AssemblyReference.cache
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.dashboard.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.fees.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.LoginPage.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.Resources.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.registerform.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.regStep2.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.step3.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login_Page.teacher_page.resources
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.GenerateResource.cache
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.vb
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CoreCompileInputs.cache
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.vbproj.CopyComplete
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\ColllegeManageSys\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll

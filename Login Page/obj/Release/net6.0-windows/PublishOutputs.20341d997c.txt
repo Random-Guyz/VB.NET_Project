@@ -1,0 +1,51 @@
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Login Page.exe
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Login Page.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Login Page.deps.json
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Login Page.runtimeconfig.json
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Login Page.pdb
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Azure.Core.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Azure.Identity.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Guna.UI2.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Logging.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Options.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Extensions.Primitives.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Identity.Client.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\Microsoft.SqlServer.Server.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.Configuration.ConfigurationManager.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.Management.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.Memory.Data.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\System.Runtime.Caching.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-arm64\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-x64\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win-x86\native\sni.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\vinit sawant\OneDrive\Desktop\My Build\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

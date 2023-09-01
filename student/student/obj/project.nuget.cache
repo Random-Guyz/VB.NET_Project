@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Bv+Uzd8AlQJrHUOj3ItkBqw5/eqEdYj5IBaMKlXsu2QVeHn93jwodJ2PplSfzvE7B2nL1SNVHxkUeCh0tT/vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinit sawant\\OneDrive\\Desktop\\VB Project\\student\\student\\student.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinit sawant\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\vinit sawant\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\vinit sawant\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
