@@ -13,5 +13,5 @@ This is a collaborative student management college project developed in VB.NET b
 ## Team Members
 Our awesome team members who have contributed to this project:
 - Project Lead: [Shaikh Moin](https://github.com/Skmoin5502)
-- Vinit Sawant (Backend): [Vinit Sawant](https://github.com/VinitSawant)
+- Vinit Sawant (Backend): [Vinit Sawant]
 - Kaif Shariff (UI/UX Designer): [Kaif Shariff](https://github.com/Kaif-Shariff)
