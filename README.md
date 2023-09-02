@@ -1,4 +1,4 @@
-#VB.NET Student Management Project
+# VB.NET Student Management Project
 
 ## Overview
 This is a collaborative student management college project developed in VB.NET by a team of enthusiastic developers. The project includes a user-friendly interface, CRUD (Create, Read, Update, Delete) operations, and a connection to a database. The front-end design was crafted by "Kaif Shariff," and the development and programming were carried out by our dedicated team members.
