@@ -3,7 +3,7 @@
 ## Login Page
 ![Login](https://github.com/Random-Guyz/VB.NET_Project/assets/93507427/496b3b9e-700b-45c9-bb24-25e89895be82)
 
-# Student Page
+## Student Page
 #![Student Page](https://github.com/Random-Guyz/VB.NET_Project/assets/93507427/23b9caf9-9632-4bdc-8299-5872e7d760ae)
 
 ## Teacher Page
